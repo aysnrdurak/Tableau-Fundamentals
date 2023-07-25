@@ -4,4 +4,4 @@
 - Tableau Datasource (.tds)
 - Tableau Bookmark (.tbm)
 - Tableau Data Extract (.tde)
-- -Tableau Packaged Workbook (.twbx)
+- Tableau Packaged Workbook (.twbx)
